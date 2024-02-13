@@ -74,7 +74,9 @@ my_song_list = [
         '''something to cure your headache (or give you a new one...):
         https://www.youtube.com/watch?v=VpoOjoiYcWY''',
         '''something to get you in the code zone:
-        https://www.youtube.com/watch?v=GGi6CygbpNQ'''
+        https://www.youtube.com/watch?v=GGi6CygbpNQ''',
+        """something R&B to get ya dancin:
+        https://www.youtube.com/watch?v=t5XNWFw5HVw"""
 ]
 
 joy_randomiser = JoyRandomiser(my_quotation_list, my_song_list)
