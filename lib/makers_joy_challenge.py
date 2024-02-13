@@ -51,7 +51,8 @@ my_quotation_list = [
         And engages each of us
         In the greatest,
         The most intense
-        Of our chosen struggles.'''
+        Of our chosen struggles.''',
+        '''Be excellent to each other'''
 ]
 
 my_song_list = [
